@@ -1,0 +1,16 @@
+.textoMenu:hover { 
+
+    color:lightseagreen; 
+    font-weight: lighter;
+    
+  } 
+
+  .textoMenu{
+    font-weight: lighter;
+    color: black;
+  }
+
+  .textoMenu:active { 
+    font-weight: bolder;
+    color: gray; 
+  } 
